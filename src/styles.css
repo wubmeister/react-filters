@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Filter {
+  margin-bottom: 1rem;
+}
+
+.Filter h5 {
+  margin-bottom: 0 !important;
+}
+
+.FilterTag {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #ebebeb;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.FilterTag-clear {
+  display: inline-block;
+  margin-left: 5px;
+  cursor: pointer;
+}
